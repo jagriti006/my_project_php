@@ -1,2 +1,2 @@
 # my_project_php
-employee management application 
+Online Examination System 
